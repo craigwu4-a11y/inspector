@@ -88,11 +88,11 @@
   },
   "dependencies": {
     "@hono/node-server": "^2.0.12",
-    "@modelcontextprotocol/client": "2.0.0",
+    "@modelcontextprotocol/client": "2.3.0",
     "@modelcontextprotocol/core": "2.0.0",
     "@modelcontextprotocol/ext-apps": "^1.7.4",
-    "@modelcontextprotocol/server": "2.0.0",
-    "@modelcontextprotocol/server-legacy": "2.0.0",
+    "@modelcontextprotocol/server": "2.3.0",
+    "@modelcontextprotocol/server-legacy": "2.4.0",
     "@napi-rs/keyring": "^1.3.0",
     "@vitejs/plugin-react": "^6.0.0",
     "ajv": "^8.17.1",
@@ -125,6 +125,6 @@
     "prettier": "3.8.4",
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.65.0",
-    "vitest": "4.1.10"
+    "vitest": "4.1.11"
   }
 }
